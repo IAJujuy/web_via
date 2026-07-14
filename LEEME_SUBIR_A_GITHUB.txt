@@ -1,0 +1,18 @@
+VIA Sistemas Digitales - Web v2 Producto
+
+1) Subir TODO el contenido de esta carpeta al repositorio de GitHub Pages.
+2) No borrar assets/ ni js/.
+3) Revisar js/config.js antes de publicar.
+4) Probar estas rutas:
+   - index.html
+   - catalogo.html
+   - evin-trace-demo.html
+   - contratar.html
+   - privacidad.html
+   - terminos.html
+5) En celular, la home debe verse en este orden:
+   1. Logo VIA
+   2. Avatar CAP VIA
+   3. Texto principal y botones
+
+El salto de esta versión: VIA ya no solo presenta áreas, presenta paquetes vendibles, demo EVIN, formulario, legales mínimos y seguimiento de conversión.
